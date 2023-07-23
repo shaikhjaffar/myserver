@@ -1,5 +1,13 @@
 {
   "Product": [
-    { "id": 1, "title": "Product1","description":"This is a product 1","ratting":5,"price":"1200" }
+    { "id": 1, "title": "Product1","description":"This is a product 1","ratting":5,"price":"1200" },
+    {
+          "id": 2,
+          "title": "Product2",
+          "description": "This is a product 2",
+          "ratting": 5,
+          "price": "1400"
+        
+      },
   ]
 }
