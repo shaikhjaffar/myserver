@@ -1,14 +1,15 @@
 {
   "Product": [
-    { "id": 1, "title": "Product1","description":"This is a product 1","ratting":5,"price":"1200" },
+    { "id": 1, "title": "Product1","description":"This is a product 1","ratting":5,"price":"1200","url":"https://img.freepik.com/free-psd/isolated-black-t-shirt-front_125540-1167.jpg?w=900&t=st=1690696597~exp=1690697197~hmac=638714329483b5aeb73dcc3298a77422c1e39c01fb6d352a242b22bda5673cac" },
     {
           "id": 2,
           "title": "Product2",
           "description": "This is a product 2",
           "ratting": 5,
-          "price": "1400"
+          "price": "1400",
+          "url":"https://img.freepik.com/free-psd/isolated-white-t-shirt-front-view_125540-1194.jpg?w=900&t=st=1690696709~exp=1690697309~hmac=c0104cb8a0deecc6086237aaa12de8ad6f0ab2f227bc4d06dc58f48771b39c98"
       },
-      { "id": 3, "title": "Product3","description":"This is a product 3","ratting":3,"price":"1300" },
+      { "id": 3, "title": "Product3","description":"This is a product 3","ratting":3,"price":"1300","url":"https://img.freepik.com/premium-psd/black-t-shirt-mockup_125540-430.jpg?w=900" },
     {
           "id": 4,
           "title": "Product4",
