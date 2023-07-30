@@ -5,7 +5,7 @@
             "title": "Product1",
             "description": "This is a product 1",
             "ratting": 5,
-            "price": "1200",
+            "price": 1200,
             "url": "https://img.freepik.com/free-photo/black-shirt-with-word-ultra-it_1340-37775.jpg?t=st=1690697879~exp=1690701479~hmac=fa32de6b2d425b6153ac0b638f02cba5a1ff5fdf89d21957b52e0ee119671f40&w=740"
         },
         {
@@ -13,7 +13,7 @@
             "title": "Product2",
             "description": "This is a product 2",
             "ratting": 5,
-            "price": "1400",
+            "price": 1400,
             "url": "https://img.freepik.com/free-photo/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger_460848-13986.jpg?w=740&t=st=1690697971~exp=1690698571~hmac=c6fbf681c81c40dbce66ab57fe094bb63ec55d344f4ad280f67e6e111eb42c0e"
         },
         {
@@ -21,7 +21,7 @@
             "title": "Product3",
             "description": "This is a product 3",
             "ratting": 3,
-            "price": "1300",
+            "price": 1300,
             "url": "https://img.freepik.com/premium-psd/black-t-shirt-mockup_125540-430.jpg?w=900"
         },
         {
@@ -29,7 +29,7 @@
             "title": "Product4",
             "description": "This is a product 4",
             "ratting": 5,
-            "price": "1900",
+            "price": 1900,
             "url": "https://img.freepik.com/free-photo/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger_460848-13986.jpg?w=740&t=st=1690697971~exp=1690698571~hmac=c6fbf681c81c40dbce66ab57fe094bb63ec55d344f4ad280f67e6e111eb42c0e"
         },
         {
@@ -37,7 +37,7 @@
             "title": "Product5",
             "description": "This is a product 5",
             "ratting": 4.5,
-            "price": "2100",
+            "price": 2100,
             "url": "https://img.freepik.com/free-photo/regular-plain-white-tshirt-grey-background_125540-2892.jpg?w=900&t=st=1690698136~exp=1690698736~hmac=b5d999d9e12e29178f68b1b715dcd1379b6cc63682e85a6a1fbe19598f0d424c"
         },
         {
@@ -45,15 +45,15 @@
             "title": "Product6",
             "description": "This is a product 6",
             "ratting": 5,
-            "price": "1700",
+            "price": 1700,
             "url": "https://img.freepik.com/premium-photo/vintage-wildlife-colorful-badge-owl-t-shirt-graphic-design-illustration_625492-1096.jpg?w=740"
         },
         {
-            "id": 1,
+            "id": 7,
             "title": "Product7",
             "description": "This is a product 7",
             "ratting": 4,
-            "price": "1900",
+            "price": 1900,
             "url": "https://img.freepik.com/free-photo/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger_460848-14040.jpg?w=740&t=st=1690698298~exp=1690698898~hmac=1451ff6448dadbf75ffb818629045892c4219c69889e9c83e7285eb4916975bc"
         },
 
@@ -69,14 +69,14 @@
             "title": "Product9",
             "description": "This is a product 9",
             "ratting": 5,
-            "price": "1200",
+            "price": 1200,
             "url": "https://img.freepik.com/free-photo/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-with-sapce-your-test_460848-14315.jpg?w=740&t=st=1690698382~exp=1690698982~hmac=313e8b85555a4684c1de29204279c0a2326dca5d44a6e9a66a0d593ea2f229a7"},
         {
             "id": 10,
             "title": "Product10",
             "description": "This is a product 10",
             "ratting": 3.5,
-            "price": "1650",
+            "price": 1650,
             "url": "https://img.freepik.com/premium-photo/male-white-tshirt-mockup-front-view-dark-background-shape-tshirt-without-body-men-s-white-blank-tshirt-template-invisible-mannequin-ai-generated-image_99272-5114.jpg?w=740"
         }
     ]
