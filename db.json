@@ -7,6 +7,37 @@
           "description": "This is a product 2",
           "ratting": 5,
           "price": "1400"
+      },
+      { "id": 3, "title": "Product3","description":"This is a product 3","ratting":3,"price":"1300" },
+    {
+          "id": 4,
+          "title": "Product4",
+          "description": "This is a product 4",
+          "ratting": 5,
+          "price": "1900"
+      },
+      { "id": 5, "title": "Product5","description":"This is a product 5","ratting":4.5,"price":"2100" },
+    {
+          "id": 6,
+          "title": "Product6",
+          "description": "This is a product 6",
+          "ratting": 5,
+          "price": "1700"
+      },  { "id": 1, "title": "Product7","description":"This is a product 7","ratting":4,"price":"1900" },
+    {
+          "id": 8,
+          "title": "Product8",
+          "description": "This is a product 8",
+          "ratting": 4.6,
+          "price": "1000"
+      },
+      { "id": 9, "title": "Product9","description":"This is a product 9","ratting":5,"price":"1200" },
+    {
+          "id": 10,
+          "title": "Product10",
+          "description": "This is a product 10",
+          "ratting": 3.5,
+          "price": "1650"
       }
   ]
 }
